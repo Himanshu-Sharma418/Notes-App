@@ -11,6 +11,6 @@ export default {
   },
   plugins: [daisyui],
   daisyui: {
-    themes: ["forest", "garden", "retro"],    // What themes may be used in the project
+    themes: ["forest"],    // What themes may be used in the project
   },
 }
